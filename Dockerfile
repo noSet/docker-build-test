@@ -1,4 +1,4 @@
-FROM microsoft/aspnetcore-build AS build-env
+FROM microsoft/aspnetcore-build
 WORKDIR /code
 COPY *.csproj ./
 RUN dotnet restore
@@ -7,7 +7,7 @@ RUN dotnet publish -c Release -o out
 
 FROM microsoft/aspnetcore
 WORKDIR /app
-COPY --from=build-env /code/out .
+COPY --from=microsoft/aspnetcore-build /code/out .
 
 EXPOSE 80
 ENTRYPOINT ["dotnet", "User.API.dll"]
