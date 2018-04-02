@@ -1,4 +1,3 @@
-
 FROM microsoft/aspnetcore:1
 LABEL Name=docker-build-test Version=0.0.1
 ARG source=.
