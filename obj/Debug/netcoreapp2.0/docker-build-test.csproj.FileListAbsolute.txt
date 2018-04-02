@@ -1,0 +1,11 @@
+E:\开发资料\个人项目\docker-build-test\bin\Debug\netcoreapp2.0\docker-build-test.deps.json
+E:\开发资料\个人项目\docker-build-test\bin\Debug\netcoreapp2.0\docker-build-test.runtimeconfig.json
+E:\开发资料\个人项目\docker-build-test\bin\Debug\netcoreapp2.0\docker-build-test.runtimeconfig.dev.json
+E:\开发资料\个人项目\docker-build-test\bin\Debug\netcoreapp2.0\docker-build-test.dll
+E:\开发资料\个人项目\docker-build-test\bin\Debug\netcoreapp2.0\docker-build-test.pdb
+E:\开发资料\个人项目\docker-build-test\obj\Debug\netcoreapp2.0\docker-build-test.csprojResolveAssemblyReference.cache
+E:\开发资料\个人项目\docker-build-test\obj\Debug\netcoreapp2.0\docker-build-test.csproj.CoreCompileInputs.cache
+E:\开发资料\个人项目\docker-build-test\obj\Debug\netcoreapp2.0\docker-build-test.AssemblyInfoInputs.cache
+E:\开发资料\个人项目\docker-build-test\obj\Debug\netcoreapp2.0\docker-build-test.AssemblyInfo.cs
+E:\开发资料\个人项目\docker-build-test\obj\Debug\netcoreapp2.0\docker-build-test.dll
+E:\开发资料\个人项目\docker-build-test\obj\Debug\netcoreapp2.0\docker-build-test.pdb
