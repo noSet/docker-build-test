@@ -7,7 +7,7 @@ RUN dotnet publish -c Release -o out
 
 FROM microsoft/aspnetcore
 WORKDIR /app
-COPY --from=microsoft/aspnetcore-build /code/out .
+COPY --from="microsoft/aspnetcore-build" /code/out .
 
 EXPOSE 80
 ENTRYPOINT ["dotnet", "User.API.dll"]
